@@ -68,6 +68,7 @@ RUN echo "---> Enabling PHP-Alpine" && \
     php7-mongodb@php \
     php7-opcache@php \
     php7-pdo_pgsql@php \
+    php7-pdo_sqlite@php \
     php7-pgsql@php \
     php7-posix@php \
     php7-redis@php \
